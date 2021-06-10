@@ -1,6 +1,6 @@
 # ava_soln
 Solutions for most questions are in
-solution.zip (pw: is filename w/o extension)
+solution.zip (pw is provided in email)
 
 -----------------------------------------------------------------------------------------------
 Assignment 1: Create E2E pipeline for the data processing over event streaming platform
