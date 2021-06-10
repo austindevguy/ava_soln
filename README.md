@@ -16,7 +16,7 @@ Kindly refer to the file AHOLGADO-SOLN-Senior_BigDataEngineer_MNL_Assessment.pdf
 Assignment 2: Create a simple dashboard to display the stored dataTempus
 -----------------------------------------------------------------------------------------------
 Austin:
-Kindly refer to the file powerbi_demo.zip. Note that for this solution, It is sourcing from a .csv file which is pulled from a <database>.<table> which is loaded by data from Assignment/Solution 1
+Kindly refer to the file powerbi_demo.zip. Note that for this solution, It is sourcing from a .csv file which is pulled from a DB.TABLE which is loaded by data from Assignment/Solution 1
 
 -----------------------------------------------------------------------------------------------
 Assignment 3: Modify the application that generates the data
