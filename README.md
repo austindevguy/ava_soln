@@ -31,5 +31,5 @@ Objective: Propose further steps for application development and address areas m
 Austin:
 1. Support for semi structured and unstructured data – The current version only supports text/csv format.
 2. Hybrid or cloud implementation – The current version is reminiscent of an on-premise implementation.
-3. Explore other tools and programming languages such as Java, Python to implement Kafka – Since this is technically my first time implementing a solution using Kafka, I opted to use Unix scripting.
+3. Explore other tools and programming languages such as Java, Python to implement Kafka – Since this is my first time implementing a solution using Kafka, I opted to use Unix scripting.
 
