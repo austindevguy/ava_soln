@@ -20,7 +20,7 @@ Kindly refer to the file powerbi_demo.zip. Note that the original/working versio
 Assignment 3: Modify the application that generates the data
 -----------------------------------------------------------------------------------------------
 Austin:
-Unfortunately, I wasn't able to provide a solution for this
+Unfortunately, I wasn't able to provide a solution for this.
 
 -----------------------------------------------------------------------------------------------
 Assessment 4:
