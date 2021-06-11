@@ -6,16 +6,15 @@ solution.zip (pw is provided in email)
 Assignment 1: Create E2E pipeline for the data processing over event streaming platform
 -----------------------------------------------------------------------------------------------
 Austin:
-Kindly refer to the file AHOLGADO-SOLN-Senior_BigDataEngineer_MNL_Assessment.pdf w/c contains:
+Kindly refer to the file AHOLGADO-SOLN-Senior_BigDataEngineer_MNL_Assessment.pdf which contains:
 1. Design and Requirements
 2. Setup and Deployment
-
 
 -----------------------------------------------------------------------------------------------
 Assignment 2: Create a simple dashboard to display the stored dataTempus
 -----------------------------------------------------------------------------------------------
 Austin:
-Kindly refer to the file powerbi_demo.zip. Note that for this solution, It is sourcing from a .csv file which is pulled from a DB.TABLE which is loaded by data from Assignment/Solution 1
+Kindly refer to the file powerbi_demo.zip. Note that the original/working version is sourcing from a database. The version that was submitted is sourcing from a .csv file which contains the (exported) result set.
 
 -----------------------------------------------------------------------------------------------
 Assignment 3: Modify the application that generates the data
